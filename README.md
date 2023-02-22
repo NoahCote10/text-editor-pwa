@@ -13,7 +13,7 @@
 ## Description <a name="description"></a>
 This project was to turn an existing application into a PWA. This involved adding webpack plugins, creating a service worker, and bundling the app into a folder for installation onto the user's computer. I also had to create GET and PUT requests to update the saved information.
 ## Installation <a name="installation"></a>
-To install got to [heroku link]. From there you can access the web version of this app. You can also press the install button in the top left corner or the install button ![install-button][installButton] to the right of the url bar.
+To install go to [this link](https://shielded-refuge-41265.herokuapp.com/). From there you can access the web version of this app. You can also press the install button in the top left corner or the install button ![install-button][installButton] to the right of the url bar.
 ## License <a name="license"></a>
 [For more information about this license click here.](https://choosealicense.com/licenses/mit/) 
 ## Usage <a name="usage"></a>
