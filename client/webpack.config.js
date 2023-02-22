@@ -61,7 +61,7 @@ module.exports = () => {
         {
           test: /\.m?js$/,
           exclude: /node_modules/,
-          // babel loader, translates js synteax for compatibility
+          // babel loader, translates js syntax for compatibility
           use: {
             loader: 'babel-loader',
             options: {
